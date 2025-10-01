@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
+
 <div align="center">
   
 [![Profile Views](https://komarev.com/ghpvc/?username=Happyesss&label=Total%20Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Happyesss)
@@ -75,16 +77,6 @@ const shashank = {
 
 <br>
 
-## 💼 Professional Experience
-
-**Senior Software Development Engineer** @ ApnaNivas  
-`2023 - 2024 | Noida, India`
-
-- 🏗️ Developed real estate & rental platform with PHP & dynamic rendering
-- 👥 Led team of 10 developers across 2 specialized teams
-- 📈 Drove project completion & achieved critical milestones
-- 🎯 Enhanced user engagement through efficient property management
-
 </td>
 <td width="40%" valign="top">
 
@@ -137,37 +129,11 @@ const shashank = {
 
 <br>
 
-## 🛠️ Interactive Code Editor & Technology Arsenal
+## 🛠️ Technology Arsenal
 
-<table border="0" align="center" width="100%">
-<tr>
-<td width="65%" valign="top">
-
-### 💻 **Live Development Environment**
-
-Experience my coding skills through this **fully interactive VS Code-style editor**:
-
-#### 🎯 **Three File System:**
-- **📄 HTML**: Semantic markup and structure
-- **🎨 CSS**: Modern styling with gradients and animations  
-- **⚡ JavaScript**: Interactive features with AI integration
-
-#### 🤖 **AI-Powered Features:**
-- **Gemini 2.0 Flash**: Latest AI model for code assistance
-- **Smart Debugging**: Real-time code analysis and suggestions
-- **Interactive Help**: Ask questions about the code
-- **Best Practices**: AI-driven optimization recommendations
-
-#### 🚀 **Editor Capabilities:**
-- **▶️ Run Code**: Compile and execute all files
-- **🐛 Debug**: AI-powered code analysis
-- **👁️ Live Preview**: Built-in browser with real-time updates
-- **✏️ Edit & Test**: Modify code and see instant results
-
-<br>
+<div align="center">
 
 ### 🎨 **Technology Stack**
-<div align="center">
 
 #### Programming Languages
 <p>
@@ -186,40 +152,23 @@ Experience my coding skills through this **fully interactive VS Code-style edito
 
 </div>
 
-</td>
-<td width="35%" valign="top">
+<br>
 
-<div align="center">
-
-<br><br>
-
-### 🎯 Interactive Demo
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=120&lines=🚀+Live+Code+Editor;💻+Real-time+Compilation;🤖+AI-Powered+Debugging;⚡+Interactive+Preview" alt="Interactive Features" />
-
-<br><br>
-
-### 📊 **Editor Features**
-- **Files**: 3 (HTML, CSS, JS)
-- **AI Model**: Gemini 2.0 Flash
-- **Features**: 10+ Interactive Tools
-- **Preview**: Real-time Browser
-- **Responsive**: Mobile-friendly
+---
 
 <br>
 
-### 🔗 **Try It Live**
-Open `preview.html` to experience:
-- Live code editing
-- AI-powered assistance  
-- Real-time preview
-- Professional VS Code styling
+## 📅 Isometric Commit Calendar
 
+<div align="center">
+  <img
+    src="./metrics.plugin.isocalendar.fullyear.svg"
+    alt="Full-year isometric commit calendar"
+    width="80%"
+    style="max-width:700px; min-width:300px;"
+  />
+  <p><sub><i>Updated daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></i></sub></p>
 </div>
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -297,14 +246,6 @@ Open `preview.html` to experience:
 
 <!-- Isometric Calendar -->
 <div align="center">
-  <img
-    src="./metrics.plugin.isocalendar.fullyear.svg"
-    alt="Full-year isometric commit calendar"
-    width="100%"
-    style="max-width:900px; min-width:320px;"
-  />
-  <p><sub>Updated daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>. Configure the <code>METRICS_TOKEN</code> secret to enable rendering.</sub></p>
-</div>
 
 ---
 
