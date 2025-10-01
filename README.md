@@ -296,11 +296,11 @@ Open `preview.html` to experience:
 </div>
 
 <!-- Isometric Calendar -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://metrics.lecoq.io/Happyesss?template=classic&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata">
-  <source media="(prefers-color-scheme: light)" srcset="https://metrics.lecoq.io/Happyesss?template=classic&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata">
-  <img alt="github isometric calendar" src="https://metrics.lecoq.io/Happyesss?template=classic&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata">
-</picture>
+<div align="center">
+
+![Metrics](https://metrics.lecoq.io/Happyesss?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata)
+
+</div>
 
 ---
 
