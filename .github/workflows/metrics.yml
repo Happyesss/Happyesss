@@ -1,0 +1,28 @@
+name: Generate metrics
+
+on:
+  schedule:
+    - cron: "30 18 * * *" # 00:00 Asia/Kolkata
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Render full-year isometric calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Happyesss
+          template: classic
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_sections: "chart, calendar, stats"

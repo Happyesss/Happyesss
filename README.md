@@ -297,9 +297,13 @@ Open `preview.html` to experience:
 
 <!-- Isometric Calendar -->
 <div align="center">
-
-![Metrics](https://metrics.lecoq.io/Happyesss?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata)
-
+  <img
+    src="./metrics.plugin.isocalendar.fullyear.svg"
+    alt="Full-year isometric commit calendar"
+    width="100%"
+    style="max-width:900px; min-width:320px;"
+  />
+  <p><sub>Updated daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>. Configure the <code>METRICS_TOKEN</code> secret to enable rendering.</sub></p>
 </div>
 
 ---
