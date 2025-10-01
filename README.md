@@ -1,15 +1,8 @@
 <div align="center">
 
-<!-- Header with Typing Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shashank%20Kumar%20Rathour&fontSize=42&fontAlignY=32&desc=Senior%20SDE%20|%20Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling" alt="header"/>
-
-</div>
-
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=Happyesss&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Happyesss)
-[![Followers](https://img.shields.io/github/followers/Happyesss?label=Followers&style=for-the-badge&color=blue)](https://github.com/Happyesss?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Happyesss?label=Total%20Stars&style=for-the-badge&color=yellow)](https://github.com/Happyesss)
+[![Profile Views](https://komarev.com/ghpvc/?username=Happyesss&label=Total%20Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Happyesss)
 
 </div>
 
@@ -101,11 +94,6 @@ const shashank = {
 
 <!-- Profile Image/Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Senior+SDE+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Advocate+%E2%9C%A8" alt="Typing SVG" />
-
-<br><br>
-
-<!-- Animated Coding GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
 
 <br><br>
 
@@ -307,11 +295,11 @@ Open `preview.html` to experience:
 
 </div>
 
-<!-- Snake Animation -->
+<!-- Isometric Calendar -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happyesss/Happyesss/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Happyesss/Happyesss/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Happyesss/Happyesss/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://metrics.lecoq.io/Happyesss?template=classic&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata">
+  <source media="(prefers-color-scheme: light)" srcset="https://metrics.lecoq.io/Happyesss?template=classic&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata">
+  <img alt="github isometric calendar" src="https://metrics.lecoq.io/Happyesss?template=classic&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata">
 </picture>
 
 ---
