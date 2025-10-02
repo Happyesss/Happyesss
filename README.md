@@ -54,14 +54,14 @@ const shashank = {
 
 ## 🏆 Featured Projects
 
-### <img src="./images/resumy.png" alt="Resumy" style="height:1em; vertical-align:-0.15em; margin-right:0.25em;" /> [Resumy.live](https://resumy.live) - AI Resume Builder
+### <img src="./images/resumy.png" alt="Resumy" style="height:1em; vertical-align:-0.15em; margin-right:0.25em;" /> <a href="https://resumy.live" style="color:#ffffff; text-decoration:none;">resumy</a> - AI Resume Builder
 > Empowering 1000+ users with AI-driven ATS-optimized resumes
 - 🤖 LLM-powered resume generation & tailoring
 - 📄 Dynamic cover letters & cold emails
 - 🎯 Real-time preview with privacy-first approach
 - ⚙️ Structured JSON schema for optimal outputs
 
-### <a href="https://assignme.live"><img src="./images/assignme.png" alt="Assignme" style="height:1em; vertical-align:-0.15em; margin-right:0.25em;" /></a>
+### <a href="https://assignme.live"><img src="./images/assignme.png" alt="Assignme" style="height:1.4em; vertical-align:-0.2em; margin-right:0.25em;" /></a>
 > 3.2M views | 3.97M HTTP requests in first month
 - 🖋️ Custom handwriting-style fonts with FontForge
 - 🚀 Optimized backend architecture
@@ -142,7 +142,7 @@ const shashank = {
 
 #### Frontend & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,nodejs,spring" alt="Frontend & Backend" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,nodejs,nextjs,spring" alt="Frontend & Backend" />
 </p>
 
 #### Databases & Cloud
@@ -198,7 +198,6 @@ const shashank = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-kumar-rathour-9a49b32a5/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Happyesss)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashankkumarrathour2004@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2300A86B.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918527875164)
 
 </div>
 
