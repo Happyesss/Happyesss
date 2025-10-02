@@ -54,14 +54,14 @@ const shashank = {
 
 ## 🏆 Featured Projects
 
-### 🌟 [Resumy.live](https://resumy.live) - AI Resume Builder
+### <img src="./images/resumy.png" alt="Resumy" style="height:1em; vertical-align:-0.15em; margin-right:0.25em;" /> [Resumy.live](https://resumy.live) - AI Resume Builder
 > Empowering 1000+ users with AI-driven ATS-optimized resumes
 - 🤖 LLM-powered resume generation & tailoring
 - 📄 Dynamic cover letters & cold emails
 - 🎯 Real-time preview with privacy-first approach
 - ⚙️ Structured JSON schema for optimal outputs
 
-### ✍️ [Assignme.live](https://assignme.live) - Assignment Automation
+### <a href="https://assignme.live"><img src="./images/assignme.png" alt="Assignme" style="height:1em; vertical-align:-0.15em; margin-right:0.25em;" /></a>
 > 3.2M views | 3.97M HTTP requests in first month
 - 🖋️ Custom handwriting-style fonts with FontForge
 - 🚀 Optimized backend architecture
