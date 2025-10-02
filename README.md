@@ -54,26 +54,26 @@ const shashank = {
 
 ## 🏆 Featured Projects
 
-### <img src="./images/resumy.png" alt="Resumy" style="height:1em; vertical-align:-0.15em; margin-right:0.25em;" /> <a href="https://resumy.live" style="color:#ffffff; text-decoration:none;">resumy</a> - AI Resume Builder
+### <img src="./images/resumy.png" alt="Resumy" style="height:1em; vertical-align:-0.15em; margin-right:0.25em;" /> <a href="https://resumy.live" style="color:#ffffff; text-decoration:none;">Resumy</a> - AI Resume Builder
 > Empowering 1000+ users with AI-driven ATS-optimized resumes
-- 🤖 LLM-powered resume generation & tailoring
-- 📄 Dynamic cover letters & cold emails
-- 🎯 Real-time preview with privacy-first approach
-- ⚙️ Structured JSON schema for optimal outputs
+-  LLM-powered resume generation & tailoring
+-  Dynamic cover letters & cold emails
+-  Real-time preview with privacy-first approach
+-  Structured JSON schema for optimal outputs
 
 ### <a href="https://assignme.live"><img src="./images/assignme.png" alt="Assignme" style="height:1.4em; vertical-align:-0.2em; margin-right:0.25em;" /></a>
 > 3.2M views | 3.97M HTTP requests in first month
-- 🖋️ Custom handwriting-style fonts with FontForge
-- 🚀 Optimized backend architecture
-- 📈 Viral open-source success story
-- 🎓 Helping students worldwide
+-  Custom handwriting-style fonts with FontForge
+-  Optimized backend architecture
+-  Viral open-source success story
+-  Helping students worldwide
 
 ### 📚 AKTU Resources Platform
 > 28K+ registered users | 115K+ page views in 4 months
-- ⚛️ Built with React & Node.js
-- 🎯 70% increase in organic traffic
-- 🥇 #1 ranking on Google for key terms
-- 📊 Centralized academic resource hub
+-  Built with React & Node.js
+-  70% increase in organic traffic
+-  #1 ranking on Google for key terms
+-  Centralized academic resource hub
 
 <br>
 
@@ -194,10 +194,21 @@ const shashank = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://my-portfolio-forest.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-kumar-rathour-9a49b32a5/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Happyesss)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashankkumarrathour2004@gmail.com)
+  <a href="https://my-portfolio-forest.netlify.app" title="Portfolio" style="margin:0 10px;display:inline-block">
+    <img src="https://img.icons8.com/3d-fluency/96/briefcase.png" alt="Portfolio" width="72" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/shashank-kumar-rathour-9a49b32a5/" title="LinkedIn" style="margin:0 10px;display:inline-block">
+    <img src="https://img.icons8.com/3d-fluency/96/linkedin.png" alt="LinkedIn" width="72" />
+  </a>
+
+  <a href="https://github.com/Happyesss" title="GitHub" style="margin:0 10px;display:inline-block">
+    <img src="https://img.icons8.com/3d-fluency/96/github.png" alt="GitHub" width="72" />
+  </a>
+
+  <a href="mailto:shashankkumarrathour2004@gmail.com" title="Email" style="margin:0 10px;display:inline-block">
+    <img src="https://img.icons8.com/3d-fluency/96/gmail-new.png" alt="Email" width="72" />
+  </a>
 
 </div>
 
