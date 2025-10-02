@@ -95,7 +95,11 @@ const shashank = {
 
 ### 🎵 Currently Vibing To
 
-[![Spotify](https://novatorem-kappa-plum.vercel.app/api/spotify)](https://open.spotify.com/user/31k6eoqld4qlg3c4i7bnqbbkckwu)
+<div align="center">
+  <audio controls preload="none" src="audio/winner-takes-it-all.mp3" style="width:320px; max-width:90%;">
+    Your browser does not support the audio element. <a href="audio/winner-takes-it-all.mp3">Download the song</a>.
+  </audio>
+</div>
 
 <br>
 
