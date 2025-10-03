@@ -1,3 +1,25 @@
+<style>
+/* Desktop Layout - Show table layout on screens wider than 768px */
+@media (min-width: 769px) {
+  .desktop-layout {
+    display: block !important;
+  }
+  .mobile-layout {
+    display: none !important;
+  }
+}
+
+/* Mobile Layout - Show stacked layout on screens 768px and smaller */
+@media (max-width: 768px) {
+  .desktop-layout {
+    display: none !important;
+  }
+  .mobile-layout {
+    display: block !important;
+  }
+}
+</style>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%" style="max-width:100%;"/>
@@ -10,22 +32,11 @@
 
 <br>
 
-<!-- Main Content - Responsive Layout -->
-<div align="center" style="width:100%; max-width:1200px; margin:0 auto;">
-
-<!-- Profile Header Section -->
-<div align="center" style="margin-bottom:30px;">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Senior+SDE+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Advocate+%E2%9C%A8" alt="Typing SVG" style="max-width:100%;height:auto;" />
-
-<br><br>
-
-<img src="octocat-1753690466467.png" width="220" alt="Developer Character" style="border-radius:12px; margin-top:12px; max-width:90%; height:auto;" />
-
-</div>
-
-<!-- About Me Section -->
-<div align="left" style="width:100%; padding:0 20px; box-sizing:border-box;">
+<!-- Desktop Layout (Table for wider screens) -->
+<div class="desktop-layout">
+<table border="0" align="center" style="width:100%; max-width:1200px;">
+<tr>
+<td width="60%" valign="top" style="padding-right:20px;">
 
 ## 👨‍💻 About Me
 
@@ -91,7 +102,7 @@ const shashank = {
 
 </div>
 
-<!-- GitHub Analytics Section -->
+<!-- GitHub Analytics Section for Mobile -->
 <div align="center" style="width:100%; padding:0 20px; box-sizing:border-box;">
 
 ### 🎵 Currently Vibing To
@@ -125,6 +136,75 @@ const shashank = {
 </div>
 
 </div>
+
+<br>
+
+</td>
+<td width="40%" valign="top" style="padding-left:20px;">
+
+<br>
+
+<div align="center">
+
+<!-- Profile Image/Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Senior+SDE+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Advocate+%E2%9C%A8" alt="Typing SVG" />
+
+<br><br>
+
+<!-- Developer Character -->
+<img src="octocat-1753690466467.png" width="220" alt="Developer Character" style="border-radius:12px; margin-top:12px;" />
+
+### 🎵 Currently Vibing To
+
+<div align="center">
+  <audio controls preload="none" src="audio/winner-takes-it-all.mp3" style="width:320px; max-width:90%;">
+    Your browser does not support the audio element. <a href="audio/winner-takes-it-all.mp3">Download the song</a>.
+  </audio>
+</div>
+
+<br>
+
+### 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=Happyesss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="100%">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Happyesss&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" width="100%">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happyesss&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=c9d1d9" width="100%">
+
+<br>
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Happyesss&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" width="100%">
+
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+
+<!-- Mobile Layout (Stacked for smaller screens) -->
+<div class="mobile-layout">
+
+<!-- Profile Header Section -->
+<div align="center" style="margin-bottom:30px;">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Senior+SDE+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Advocate+%E2%9C%A8" alt="Typing SVG" style="max-width:100%;height:auto;" />
+
+<br><br>
+
+<img src="octocat-1753690466467.png" width="220" alt="Developer Character" style="border-radius:12px; margin-top:12px; max-width:90%; height:auto;" />
+
+</div>
+
+<!-- About Me Section -->
+<div align="left" style="width:100%; padding:0 20px; box-sizing:border-box;">
 
 
 <br>
