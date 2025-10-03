@@ -11,9 +11,9 @@
 <br>
 
 <!-- Main Content with Image on Right -->
-<div style="display:flex; flex-wrap:wrap; gap:24px; justify-content:center; align-items:flex-start; padding:0 16px;">
-
-<div style="flex:1 1 360px; min-width:280px; max-width:620px; text-align:left;">
+<table border="0" align="center">
+<tr>
+<td width="60%" valign="top">
 
 ## 👨‍💻 About Me
 
@@ -77,10 +77,8 @@ const shashank = {
 
 <br>
 
-
-</div>
-
-<div style="flex:1 1 320px; min-width:260px; max-width:520px; text-align:center;">
+</td>
+<td width="40%" valign="top">
 
 <br>
 
@@ -125,10 +123,9 @@ const shashank = {
 
 </div>
 
-
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
