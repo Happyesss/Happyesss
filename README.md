@@ -207,25 +207,6 @@ const shashank = {
 
 <div align="center">
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-<br>
-
-### ⭐ Star my repositories if you find them helpful!
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
-
-<!-- Isometric Calendar -->
-<div align="center">
-
----
-
-<div align="center">
-  
-**💙 Thanks for visiting! Let's build something amazing together! 💙**
 
 </div>
