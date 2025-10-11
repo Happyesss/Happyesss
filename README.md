@@ -158,35 +158,23 @@ const shashank = {
 
 <br>
 
----
+## 📅 Isometric Commit Calendar and Contribution Graph
 
-<br>
-
-## 📅 Isometric Commit Calendar
-
+<table>
+<tr>
+<td width="50%">
 <div align="center">
-  <img
-    src="./metrics.plugin.isocalendar.fullyear.svg"
-    alt="Full-year isometric commit calendar"
-    width="80%"
-    style="max-width:700px; min-width:300px;"
-  />
-  <p><sub><i>Updated daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></i></sub></p>
+<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Full-year isometric commit calendar" width="100%" />
+<p><sub><i>Updated daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></i></sub></p>
 </div>
-
-<br>
-
----
-
-<br>
-
-## 📈 Contribution Graph
-
+</td>
+<td width="50%">
 <div align="center">
-
 [![Shashank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Happyesss&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff)](https://github.com/Happyesss)
-
 </div>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -194,51 +182,22 @@ const shashank = {
 
 <br>
 
-## 🌐 Connect With Me
+## 💭 Random Dev Quote & 😄 A Little Humor
 
+<table>
+<tr>
+<td width="50%">
 <div align="center">
-
-  <a href="https://my-portfolio-forest.netlify.app" title="Portfolio" style="margin:0 10px;display:inline-block">
-    <img src="https://img.icons8.com/3d-fluency/96/briefcase.png" alt="Portfolio" width="72" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/shashank-kumar-rathour-9a49b32a5/" title="LinkedIn" style="margin:0 10px;display:inline-block">
-    <img src="https://img.icons8.com/3d-fluency/96/linkedin.png" alt="LinkedIn" width="72" />
-  </a>
-
-  <a href="https://github.com/Happyesss" title="GitHub" style="margin:0 10px;display:inline-block">
-    <img src="https://img.icons8.com/3d-fluency/96/github.png" alt="GitHub" width="72" />
-  </a>
-
-  <a href="mailto:shashankkumarrathour2004@gmail.com" title="Email" style="margin:0 10px;display:inline-block">
-    <img src="https://img.icons8.com/3d-fluency/96/gmail-new.png" alt="Email" width="72" />
-  </a>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 </div>
-
-<br>
-
-## 😄 A Little Humor
-
+</td>
+<td width="50%">
 <div align="center">
-
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
 </div>
+</td>
+</tr>
+</table>
 
 <br>
 
