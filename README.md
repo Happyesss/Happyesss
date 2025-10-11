@@ -170,7 +170,9 @@ const shashank = {
 </td>
 <td width="50%">
 <div align="center">
-[![Shashank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Happyesss&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff)](https://github.com/Happyesss)
+<a href="https://github.com/Happyesss">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Happyesss&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff" alt="Shashank's github activity graph" width="100%" />
+</a>
 </div>
 </td>
 </tr>
@@ -188,7 +190,7 @@ const shashank = {
 <tr>
 <td width="50%">
 <div align="center">
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="100%" />
 </div>
 </td>
 <td width="50%">
