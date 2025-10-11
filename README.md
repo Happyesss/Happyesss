@@ -40,15 +40,15 @@ const shashank = {
 
 <br>
 
-## 🚀 Current Endeavors
+## Current Endeavors
 
-🔭 **Currently Building:** [**FairLX**](https://github.com/Happyesss/fairlx) - Next-gen open source project management tool (Think Jira/Zoho, but simpler & smarter)
+**Currently Building:** [**FairLX**](https://github.com/Happyesss/fairlx) - Next-gen open source project management tool (Think Jira/Zoho, but simpler & smarter)
 
-💼 **Working On:** AI-powered solutions & scalable microservices
+**Working On:** AI-powered solutions & scalable microservices
 
-🌱 **Learning:** Advanced System Design, Cloud Architecture & DevOps
+**Learning:** Advanced System Design, Cloud Architecture & DevOps
 
-⚡ **Open to:** Collaborations on innovative projects
+**Open to:** Collaborations on innovative projects
 
 <br>
 
