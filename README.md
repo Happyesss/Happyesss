@@ -96,7 +96,11 @@ const shashank = {
 ### 🎵 Currently Vibing To
 
 <div align="center">
-  <iframe src="https://rawcdn.githack.com/Happyesss/Happyesss/main/player.html" width="600" height="200" frameborder="0" style="border-radius: 10px; max-width: 90%;"></iframe>
+  
+**🎧 The Winner Takes It All - ABBA**
+
+[▶️ Open Music Player](https://rawcdn.githack.com/Happyesss/Happyesss/main/player.html)
+
 </div>
 
 <br>
