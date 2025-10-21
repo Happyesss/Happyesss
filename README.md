@@ -96,7 +96,7 @@ const shashank = {
 ### 🎵 Currently Vibing To
 
 <div align="center">
-  <iframe src="./player.html" width="600" height="200" frameborder="0" style="border-radius: 10px; max-width: 90%;"></iframe>
+  <iframe src="https://rawcdn.githack.com/Happyesss/Happyesss/main/player.html" width="600" height="200" frameborder="0" style="border-radius: 10px; max-width: 90%;"></iframe>
 </div>
 
 <br>
