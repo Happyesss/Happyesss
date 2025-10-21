@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .popup-player {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            display: flex;
+            width: 600px;
+            height: 200px;
+            overflow: hidden;
+        }
+        .album-art {
+            flex: 1;
+            background-image: url('https://m.media-amazon.com/images/M/MV5BODI4YjE0OTMtNmEwYy00MDQzLWFhNGQtYTgzMjdkY2U1YTE2XkEyXkFqcGc@._V1_.jpg');
+            background-size: cover;
+            background-position: center;
+        }
+        .controls {
+            flex: 2;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        .song-info {
+            margin-bottom: 20px;
+        }
+        .song-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin: 0;
+        }
+        .artist {
+            font-size: 16px;
+            color: #666;
+            margin: 5px 0;
+        }
+        .progress-bar {
+            width: 100%;
+            height: 5px;
+            background-color: #ddd;
+            border-radius: 2px;
+            margin-bottom: 20px;
+        }
+        .progress {
+            height: 100%;
+            background-color: #007bff;
+            border-radius: 2px;
+            width: 30%;
+        }
+        .player-controls {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .control-buttons {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .btn {
+            background: none;
+            border: none;
+            font-size: 20px;
+            cursor: pointer;
+            padding: 5px;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background-color 0.2s;
+        }
+        .btn:hover {
+            background-color: #f0f0f0;
+        }
+        .play-btn {
+            font-size: 24px;
+        }
+        .volume-control {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .volume-slider {
+            width: 80px;
+        }
+    </style>
+</head>
+<body>
+    <div class="popup-player">
+        <div class="album-art"></div>
+        <div class="controls">
+            <div class="song-info">
+                <h2 class="song-title">The Winner Takes It All</h2>
+                <p class="artist">ABBA</p>
+            </div>
+            <div class="progress-bar">
+                <div class="progress" id="progress"></div>
+            </div>
+            <div class="player-controls">
+                <div class="control-buttons">
+                    <button class="btn" id="prev">⏮</button>
+                    <button class="btn play-btn" id="play">▶</button>
+                    <button class="btn" id="next">⏭</button>
+                </div>
+                <div class="volume-control">
+                    <span>🔊</span>
+                    <input type="range" class="volume-slider" id="volume" min="0" max="1" step="0.1" value="0.5">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <audio id="audio" src="Audio/winner-takes-it-all.mp3"></audio>
+
+    <script>
+        const audio = document.getElementById('audio');
+        const playBtn = document.getElementById('play');
+        const progress = document.getElementById('progress');
+        const volume = document.getElementById('volume');
+        let isPlaying = false;
+
+        playBtn.addEventListener('click', () => {
+            if (isPlaying) {
+                audio.pause();
+                playBtn.textContent = '▶';
+            } else {
+                audio.play();
+                playBtn.textContent = '⏸';
+            }
+            isPlaying = !isPlaying;
+        });
+
+        audio.addEventListener('timeupdate', () => {
+            const progressPercent = (audio.currentTime / audio.duration) * 100;
+            progress.style.width = progressPercent + '%';
+        });
+
+        volume.addEventListener('input', () => {
+            audio.volume = volume.value;
+        });
+
+        // Initialize volume
+        audio.volume = volume.value;
+    </script>
+</body>
+</html>

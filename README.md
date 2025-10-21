@@ -96,9 +96,7 @@ const shashank = {
 ### 🎵 Currently Vibing To
 
 <div align="center">
-  <audio controls preload="none" src="audio/winner-takes-it-all.mp3" style="width:320px; max-width:90%;">
-    Your browser does not support the audio element. <a href="audio/winner-takes-it-all.mp3">Download the song</a>.
-  </audio>
+  <iframe src="./player.html" width="600" height="200" frameborder="0" style="border-radius: 10px; max-width: 90%;"></iframe>
 </div>
 
 <br>
