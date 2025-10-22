@@ -153,7 +153,7 @@ const shashank = {
 
 #### Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,azure,linux,git" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,azure,linux,git,githubactions" alt="Databases & Cloud" />
 </p>
 
 </div>
