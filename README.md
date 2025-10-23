@@ -10,6 +10,46 @@
 
 <br>
 
+### 🏗️ System design (concise)
+
+A short, high-level system-design overview to show architecture thinking and componentization.
+
+- Goal: build a scalable, observable, and resilient web service for FairLX-style product management.
+- Inputs: user requests (web/mobile), background jobs, third-party webhooks. Outputs: API responses, notifications, files, analytics.
+
+Core components
+- Clients: Web (React/Next), Mobile (optional native/React Native)
+- CDN & API Gateway: edge CDN + gateway for routing, TLS, rate-limiting and auth (Cloudflare/ALB/API GW)
+- Auth & Identity: OAuth2 / JWT / session service
+- BFF / API layer: Backend-for-Frontend to compose responses for clients
+- Microservices: small domain services (Users, Projects, Tasks, Notifications, Search)
+- Data storage: relational DB (Postgres) for transactional data, document DB (Mongo) for flexible schemas
+- Async & Messaging: message bus (Kafka/RabbitMQ) for events, background workers for heavy jobs
+- Cache & Fast-store: Redis for sessions, rate-limiting, and read caching
+- Object storage: S3 / Azure Blob for user files, attachments and artifacts
+- Search & Indexing: Elasticsearch / OpenSearch for full-text and filters
+- Observability: structured logging, distributed tracing (OpenTelemetry), metrics (Prometheus) + dashboards (Grafana)
+- CI/CD & Deployment: GitHub Actions -> build images -> Helm + Kubernetes (or managed services)
+
+Simple component flow (ASCII)
+
+Clients --> CDN/API-GW --> BFF --> { Microservices }
+                                 |--> Postgres
+                                 |--> Mongo
+                                 |--> Redis
+                                 |--> Object Storage
+                                 \--> Message Bus --> Workers / Async Consumers
+
+Key design choices & patterns
+- Scalability: horizontal scaling, stateless services, database read replicas, sharding for large tables
+- Reliability: retries with exponential backoff, idempotency keys for commands, circuit breakers
+- Consistency: prefer single-writer transactional boundaries; use events for eventual consistency between services
+- Performance: caching (Redis), denormalized read models (CQRS) where necessary
+- Security: least privilege, encrypted-at-rest and in-transit, token rotation, input validation
+
+When discussing a project or interview: mention capacity planning (QPS, storage), failure modes (partial failure, network), and trade-offs (strong vs eventual consistency).
+
+
 <!-- Main Content with Image on Right -->
 <table border="0" align="center">
 <tr>
