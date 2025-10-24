@@ -169,7 +169,6 @@ const shashank = {
   <kbd>Distributed Caching</kbd>
   <kbd>Zero-Trust Security</kbd>
   <kbd>Autoscaling</kbd>
-  <kbd>Observability</kbd>
 </p>
 <p>
   <sub>Crafting production-grade systems with Kafka, Redis, Postgres, Azure Service Bus, Grafana, Prometheus & Terraform</sub>
