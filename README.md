@@ -173,7 +173,6 @@ const shashank = {
 <p>
   <sub>Crafting production-grade systems with Kafka, Redis, Postgres, Azure Service Bus, Grafana, Prometheus & Terraform</sub>
 </p>
-
 </div>
 
 <br>
