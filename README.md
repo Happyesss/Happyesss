@@ -161,7 +161,6 @@ const shashank = {
   <kbd>Domain-Driven Design</kbd>
   <kbd>Microservices</kbd>
   <kbd>Event-Driven</kbd>
-  <kbd>API Gateway</kbd>
   <kbd>CQRS + Event Sourcing</kbd>
 </p>
 <p>
