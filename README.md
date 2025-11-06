@@ -135,7 +135,7 @@ const shashank = {
 
 <br>
 
-## 🛠️ Technology Arsenal
+## Technology Arsenal
 
 <div align="center">
 
