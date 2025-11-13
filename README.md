@@ -139,7 +139,7 @@ const shashank = {
 
 <div align="center">
 
-### 🎨 **Technology Stack**
+### **Technology Stack**
 
 #### Programming Languages
 <p>
