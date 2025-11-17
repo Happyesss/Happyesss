@@ -31,7 +31,7 @@ const shashank = {
     ],
     
     funFacts: {
-        rubiksCube: "30 seconds ⚡",
+        rubiksCube: "30 seconds. ⚡",
         hobbies: ["🏸 Badminton", "🎸 Guitar", "💻 Coding"],
         philosophy: "Code with purpose, build with passion"
     }
