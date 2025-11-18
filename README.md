@@ -66,7 +66,7 @@ const shashank = {
 -  Custom handwriting-style fonts with FontForge
 -  Optimized backend architecture
 -  Viral open-source success story
--  Helping students worldwide.
+-  Helping students worldwide
 
 ### 📚 AKTU Resources Platform
 > 28K+ registered users | 115K+ page views in 4 months
