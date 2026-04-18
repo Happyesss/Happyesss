@@ -48,7 +48,7 @@ const shashank = {
 
 **Learning:** Advanced System Design, Cloud Architecture & DevOps
 
-**Open to:** Collaborations on innovative projects.
+**Open to:** Collaborations on innovative projects
 
 <br>
 
