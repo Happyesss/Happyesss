@@ -25,7 +25,7 @@ const shashank = {
     currentFocus: "Building FairLX - Open Source Project Management.",
     
     passion: [
-        "Creating impactful solutions",
+        "Creating impactful solutions.",
         "Open source contribution",
         "System design & architecture"
     ],
