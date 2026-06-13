@@ -22,7 +22,7 @@ const shashank = {
     location: "Noida, India 🇮🇳",
     role: "Senior Software Development Engineer",
     education: "B.Tech in AI & ML",
-    currentFocus: "Building FairLX - Open Source Project Management.",
+    currentFocus: "Building FairLX - Open Source Project Management",
     
     passion: [
         "Creating impactful solutions",
