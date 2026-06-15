@@ -27,7 +27,7 @@ const shashank = {
     passion: [
         "Creating impactful solutions",
         "Open source contribution",
-        "System design & architecture."
+        "System design & architecture"
     ],
     
     funFacts: {
