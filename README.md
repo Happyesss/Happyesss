@@ -104,9 +104,9 @@ const shashank = {
 
 <div align="center">
   
-<a href="https://rawcdn.githack.com/Happyesss/Happyesss/main/player.html"><img src="./now-playing.svg" width="340" alt="Now playing: The Winner Takes It All - ABBA. Click to play" /></a>
+<a href="https://happyesss.github.io/Happyesss/player.html"><img src="./now-playing.svg" width="340" alt="Now playing: The Winner Takes It All - ABBA. Click to play" /></a>
 
-<sub>🎧 The Winner Takes It All - ABBA &nbsp;·&nbsp; <a href="https://rawcdn.githack.com/Happyesss/Happyesss/main/player.html">▶️ Open Music Player</a></sub>
+<sub>🎧 The Winner Takes It All - ABBA &nbsp;·&nbsp; <a href="https://happyesss.github.io/Happyesss/player.html">▶️ Open Music Player</a></sub>
 
 </div>
 
