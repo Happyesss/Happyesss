@@ -54,12 +54,25 @@ const shashank = {
 
 ## 🏆 Featured Projects
 
-### <img src="./images/resumy.png" alt="Resumy" style="height:1em; vertical-align:-0.15em; margin-right:0.25em;" /> <a href="https://resumy.live" style="color:#ffffff; text-decoration:none;">Resumy</a> - AI Resume Builder
+### <a href="https://fairlx.com"><img src="https://fairlx.com/apple-touch-icon.png" alt="Fairlx" height="22" /></a> [Fairlx](https://fairlx.com) - AI-Powered Agile Work OS
+> Next-gen project management, simpler and smarter than Jira
+-  Autonomous coding agents that pick up tasks
+-  Sprint boards and agile workflows
+-  Automated pull requests from planned work
+-  Open source project management
+
+### <a href="https://resumy.tech"><img src="./images/resumy.png" alt="Resumy" height="22" /></a> [Resumy](https://resumy.tech) - AI Resume Builder
 > Empowering 1000+ users with AI-driven ATS-optimized resumes
 -  LLM-powered resume generation & tailoring
 -  Dynamic cover letters & cold emails
 -  Real-time preview with privacy-first approach
 -  Structured JSON schema for optimal outputs
+
+### <a href="https://notebook-fighters.coollagers.workers.dev/"><img src="https://notebook-fighters.coollagers.workers.dev/icon.svg" alt="Notebook Fighters" height="22" /></a> [Notebook Fighters](https://notebook-fighters.coollagers.workers.dev/) - Draw & Fight Game
+> Draw your own fighter in a notebook and bring it to life
+-  Sketch a fighter, then battle with it
+-  Play against the computer or a friend
+-  Online battles with anyone
 
 ### <a href="https://assignme.live"><img src="./images/assignme.png" alt="Assignme" style="height:1.4em; vertical-align:-0.2em; margin-right:0.25em;" /></a>
 > 3.2M views | 3.97M HTTP requests in first month
@@ -226,3 +239,4 @@ const shashank = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
