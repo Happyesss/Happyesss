@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=Happyesss&label=Total%20Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Happyesss)
+<a href="https://github.com/Happyesss"><img src="https://komarev.com/ghpvc/?username=Happyesss&label=Total%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /></a>
 
 </div>
 
@@ -81,12 +81,6 @@ const shashank = {
 -  Viral open-source success story
 -  Helping students worldwide
 
-### 📚 AKTU Resources Platform
-> 28K+ registered users | 115K+ page views in 4 months
--  Built with React & Node.js
--  70% increase in organic traffic
--  #1 ranking on Google for key terms
--  Centralized academic resource hub
 
 <br>
 
@@ -132,9 +126,6 @@ const shashank = {
 
 <br>
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Happyesss&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" width="100%">
 
 </div>
 
